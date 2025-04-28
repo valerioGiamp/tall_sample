@@ -24,10 +24,10 @@
 ![Livewire](https://img.shields.io/badge/Livewire-2.x-blue)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-3.x-lightblue)
 ![Blade](https://img.shields.io/badge/Blade-template-orange)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4)## 🧰 Tecnologie utilizzate
-
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
-![Livewire](https://img.shields.io/badge/Livewire-2.x-blue)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-3.x-lightblue)
-![Blade](https://img.shields.io/badge/Blade-template-orange)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4)
+
+- **Laravel** – Backend Framwork
+- **Blade** – Template engine di Laravel
+- **Livewire** – Componenti dinamici reactive (senza JavaScript)
+- **Alpine.js** – Interazioni leggere lato front-end
+- **Tailwind CSS** – Utility-first CSS framework
