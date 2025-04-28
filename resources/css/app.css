@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.js-cookie-consent {
+    z-index: 50;
+}
+
+.bg-cookie-consent {
+    background-color: rgb(224 242 254) !important;
+}
